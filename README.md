@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **I am colder than ice fr**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: :two_men_holding_hands: </h3>
 <p align="left">
 </p>
 
