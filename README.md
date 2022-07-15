@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi :wave: , I'm Suraj BTW I use arch</h1>
+<h1 align="center">Hi :wave: , I'm Suraj</h1>
 <h3 align="center">L</h3>
 
 - 🌱 I’m currently learning **Js ,CS50**
