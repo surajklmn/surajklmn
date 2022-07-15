@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi :wave: , I'm Suraj</h1>
+<h1 align="center">Hi :wave: , I'm Suraj BTW I use arch</h1>
 <h3 align="center">L</h3>
 
 - 🌱 I’m currently learning **Js ,CS50**
 
-- ⚡ Fun fact **I am colder than ice fr**
+- ⚡ Fun fact **I am colder than ice fr fr**
 
 <h3 align="left">Connect with me: :two_men_holding_hands: </h3>
 <p align="left">
