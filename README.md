@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Js ,CS50**
 
 - ⚡ Fun fact **The first computer mouse was made of wood.**
-- 
+
 <h3 align="left">Connect with me: :two_men_holding_hands: </h3>
 <p align="left">
 </p>
