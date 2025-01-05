@@ -8,4 +8,4 @@
 <h3 align="left">Connect with me: :two_men_holding_hands: </h3>
 <p align="left">
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=surajklmn&theme=dark&hide_border=true)](https://github.com/surajklmn)
+[![GitHub Streak](https://streak-stats.demolab.com?user=surajklmn)](https://git.io/streak-stats)
