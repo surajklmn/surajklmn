@@ -7,4 +7,5 @@
 
 <p align="left">
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=surajklmn" alt="GitHub Streak" /></a>
+
+[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajklmn)](https://github.com/anuraghazra/github-readme-stats)
