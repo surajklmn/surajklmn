@@ -8,4 +8,4 @@
 <p align="left">
 </p>
 
-[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajklmn)](https://github.com/anuraghazra/github-readme-stats)
+[![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajklmn)](https://github.com/surajklmn)
